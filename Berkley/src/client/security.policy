@@ -1,0 +1,3 @@
+grant codeBase "file:/src/client/-" {
+        permission java.security.AllPermission;
+};
